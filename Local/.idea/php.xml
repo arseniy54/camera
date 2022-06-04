@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="d7492552-45a0-4825-9c0c-b6b17831411f" name="PHP (project level)" home="C:\OpenServer\domains\ITS-PROJECT\views\footer.php" debugger_id="php.debugger.XDebug" debugger_extension="C:\OpenServer\domains\ITS-PROJECT\views\footer.php" />
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+</project>

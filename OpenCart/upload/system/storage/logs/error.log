@@ -1,0 +1,2 @@
+2022-03-23 17:19:51 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'its-project' in C:\OpenServer\domains\ITS-PROJECT\upload\system\library\db\mysqli.php on line 7
+2022-03-23 17:20:17 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'its-project' in C:\OpenServer\domains\ITS-PROJECT\upload\system\library\db\mysqli.php on line 7
